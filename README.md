@@ -25,7 +25,7 @@
 
 📦 yolo-fastapi-detection
 │
-├── app.py                 # Main FastAPI application
+├── app.py                 # Main FastAPI application\n
 ├── requirements.txt       # Project dependencies
 ├── output/                # Folder to save annotated images
 ├── test_images/           # Sample input images
