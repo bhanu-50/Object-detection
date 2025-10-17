@@ -23,7 +23,7 @@
 
         Return detections as structured JSON output
 
-** 📦 yolo-fastapi-detection**
+📦 yolo-fastapi-detection
 │
 ├── app.py                 # Main FastAPI application
 ├── requirements.txt       # Project dependencies
